@@ -1,8 +1,16 @@
 ---
+layout: single
 permalink: /about/
 title: "About"
+author_profile: true
+classes: wide
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a microbial systems ecologist studying how microbial processes drive beneficial ecosystem functions that are essential for both human and planetary health. I’m particularly fascinated by how microscopic interactions scale up to influence entire ecosystems.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+At the University of Heidelberg in Germany, I studied Biological Sciences (B.Sc.) and Systems Biology (M.Sc.). During this time, I had the opportunity to study and work abroad, first as an exchange student at the University of Leicester (UK), then as a research assistant at the University of Cambridge (UK), and later as a research assistant in Singapore. 
+
+I completed my PhD at ETH Zürich (Switzerland) and Eawag (the Swiss Federal Institute of Aquatic Science and Technology, Switzerland). My research  focused on trophic interactions and nutrient acquisition strategies of bacteria. 
+
+To dive more into microbial metabolism and its significance for ecosystems, I moved to Melbourne to join the Climate Microbiology group at Monash University as postdoctoral researcher. Here, I studied microbial hydrogen metabolism in the human gut in health and disease. Through a SNSF postdoc.mobility fellowship, I now explores the role of metabolic versatility in microorganisms for their habitat ranges and response to environmental changes. 
+ 
